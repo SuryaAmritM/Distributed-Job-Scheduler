@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+node_modules/
+dist/
+*.egg-info/
+.pytest_cache/
+postgres_data/
+scheduler.db
